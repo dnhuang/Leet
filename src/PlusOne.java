@@ -7,7 +7,7 @@ public class PlusOne {
         digits[digits.length-1] = digits[digits.length-1] + 1;
         int index = digits.length-1;
 
-        // Loop for carry overs, keep looping of updated index is equal to 10
+        // Loop for carry overs, keep looping if new index is equal to 10
         while (digits[index] == 10) {
            digits[index] = 0; // resets 10 to 0 due to carry over
             if (index == 0) { // carried all the way to front, need to modify size of digits
