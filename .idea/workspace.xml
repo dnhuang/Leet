@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85914fb8-8f17-45df-9def-ce1bf6343e01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PeakIndexInAMountainArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leet/src/SearchInsertPosition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leet/src/SearchInsertPosition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SearchInsertPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchInsertPosition.java" afterDir="false" />
-    </list>
+    <list default="true" id="85914fb8-8f17-45df-9def-ce1bf6343e01" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +45,7 @@
       <recent name="C:\Projects\Leet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PeakIndexInAMountainArray">
+  <component name="RunManager" selected="Application.SearchInsertPosition">
     <configuration name="AddBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.AddBinary" />
       <module name="Leet" />
@@ -119,8 +113,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PeakIndexInAMountainArray" />
         <item itemvalue="Application.SearchInsertPosition" />
+        <item itemvalue="Application.PeakIndexInAMountainArray" />
         <item itemvalue="Application.AddBinary" />
         <item itemvalue="Application.PlusOne" />
         <item itemvalue="Application.LengthOfLastWord" />
@@ -184,8 +178,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/PeakIndexInAMountainArray.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="20" />
+          <line>38</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

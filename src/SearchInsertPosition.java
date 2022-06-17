@@ -48,14 +48,16 @@ public class SearchInsertPosition {
         }
         return leftIndex; // leftIndex has surpassed rightIndex and should be where the element is inserted
     }
-
     public static void main(String[] args) {
         SearchInsertPosition tester = new SearchInsertPosition();
         int[] input = new int[]{1, 3, 5, 6};
+        System.out.println("Test for searchInsert:");
         System.out.println(tester.searchInsert(input, 5));
         System.out.println(tester.searchInsert(input, 2));
         System.out.println(tester.searchInsert(input, 7));
         System.out.println(tester.searchInsert(input, 0));
+
+        System.out.println("Test for searchInsert2:");
         System.out.println(tester.searchInsert2(input, 5));
         System.out.println(tester.searchInsert2(input, 2));
         System.out.println(tester.searchInsert2(input, 7));
