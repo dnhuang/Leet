@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85914fb8-8f17-45df-9def-ce1bf6343e01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AddBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PeakIndexInAMountainArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leet/src/SearchInsertPosition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leet/src/SearchInsertPosition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchInsertPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchInsertPosition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +51,7 @@
       <recent name="C:\Projects\Leet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddBinary">
+  <component name="RunManager" selected="Application.PeakIndexInAMountainArray">
     <configuration name="AddBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.AddBinary" />
       <module name="Leet" />
@@ -75,15 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumSubarray (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaximumSubarray" />
-      <module name="Leet" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MaximumSubarray" />
+    <configuration name="PeakIndexInAMountainArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.PeakIndexInAMountainArray" />
       <module name="Leet" />
       <extension name="coverage">
         <pattern>
@@ -108,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.SearchInsertPosition" />
+      <module name="Leet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PeakIndexInAMountainArray" />
+        <item itemvalue="Application.SearchInsertPosition" />
         <item itemvalue="Application.AddBinary" />
         <item itemvalue="Application.PlusOne" />
         <item itemvalue="Application.LengthOfLastWord" />
-        <item itemvalue="Application.MaximumSubarray (1)" />
-        <item itemvalue="Application.MaximumSubarray" />
       </list>
     </recent_temporary>
   </component>
@@ -154,11 +163,6 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SearchInsertPosition.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/BinarySearch.java</url>
           <line>26</line>
           <option name="timeStamp" value="10" />
@@ -170,10 +174,25 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/AddBinary.java</url>
-          <line>132</line>
-          <option name="timeStamp" value="15" />
+          <line>137</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SearchInsertPosition.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PeakIndexInAMountainArray.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="arr.length" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

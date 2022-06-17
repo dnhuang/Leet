@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85914fb8-8f17-45df-9def-ce1bf6343e01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MaximumSubarray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GuessNumberHigherOrLower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GuessNumberHigherOrLower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchInsertPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchInsertPosition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +48,9 @@
       <recent name="C:\Projects\Leet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaximumSubarray">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.BinarySearch" />
+  <component name="RunManager" selected="Application.SearchInsertPosition">
+    <configuration name="AddBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.AddBinary" />
       <module name="Leet" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImplementstrStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.ImplementstrStr" />
+    <configuration name="LengthOfLastWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.LengthOfLastWord" />
       <module name="Leet" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +75,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MaximumSubarray" />
+    <configuration name="MaximumSubarray (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaximumSubarray" />
+      <module name="Leet" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlusOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.PlusOne" />
       <module name="Leet" />
       <extension name="coverage">
         <pattern>
@@ -102,26 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="src.RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.RemoveElement" />
-      <module name="Leet" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaximumSubarray" />
-        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.SearchInsertPosition" />
-        <item itemvalue="Application.ImplementstrStr" />
-        <item itemvalue="Application.src.RemoveElement" />
+        <item itemvalue="Application.AddBinary" />
+        <item itemvalue="Application.PlusOne" />
+        <item itemvalue="Application.LengthOfLastWord" />
+        <item itemvalue="Application.MaximumSubarray (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -162,13 +155,23 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/SearchInsertPosition.java</url>
-          <line>35</line>
+          <line>51</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/BinarySearch.java</url>
           <line>26</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LengthOfLastWord.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AddBinary.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
